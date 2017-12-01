@@ -1,14 +1,20 @@
 # Skill Automation tool for IT Help Desk
-This is a set of tools that easily common help desk troubleshooting task into powershell script, automate script execution and predict execution time.
-There are 2 files:
-
-1) ScriptBuilder.au3: this tools features 
-2) ScriptPlayer.au3:
-  
+This graphical tool helps IT Contact Center build, automate and execute technical troubleshooting task without knowing powershell scripting.
 
 
-
-
-
+1) ScriptBuilder.au3: Tool for building scripts that automate common troubleshooting task. Program writes a formated powershell commands with value setting.     
 
 ![Script Builder](https://github.com/ntemena720/SkillAutomation/blob/master/scriptbuilder.PNG)
+
+
+
+
+2) ScriptPlayer.au3: Tool the reads script files and executes the script command. It will also predict execution duration based from past performance.
+  
+![Script Builder](https://github.com/ntemena720/SkillAutomation/blob/master/scriptbuilder.PNG)
+
+
+
+
+
+
