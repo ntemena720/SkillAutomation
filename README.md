@@ -11,11 +11,11 @@ This graphical tool helps IT Contact Center build, automate and execute technica
 
 2) ScriptPlayer.au3: Tool the reads script files and executes the script command. It will also predict execution duration based from past performance.
   
-![Script Builder](https://github.com/ntemena720/SkillAutomation/blob/master/ScriptPlayer.PNG)
+![Script Player](https://github.com/ntemena720/SkillAutomation/blob/master/ScriptPlayer.PNG)
 
-Dashboard before the Sciptplayer executes the task:
+Dashboard before the ScriptPlayer executes the task:
 
-![Script Builder](https://github.com/ntemena720/SkillAutomation/blob/master/ScriptDash.PNG)
+![MiniDashboard](https://github.com/ntemena720/SkillAutomation/blob/master/ScriptDash.PNG)
 
 
 
